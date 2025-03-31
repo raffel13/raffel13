@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Raphael!
+<h1 align="center">Hi 👋, I'm Raphael</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduurarap001&label=Profile%20views&color=0e75b6&style=flat" alt="eduurarap001" /> </p>
 
 👨🏻‍💻 Aspiring IT Project Manager, Business Analyst & Web Developer, sharing my journey and learnings in tech<br/>
 🎓 Studying Business Informatics at the University of Applied Sciences in Carinthia<br/>
